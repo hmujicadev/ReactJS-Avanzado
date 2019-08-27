@@ -1,0 +1,10 @@
+.Noticia {
+    cursor:pointer;
+}
+
+
+.Noticias .jumbotron {
+    background-color: purple;
+    color: white;
+}
+
