@@ -1,0 +1,8 @@
+.Noticia {
+  cursor: pointer;
+}
+
+.Noticia .jumbotron {
+    background-color: lightblue;
+    color: brown;
+}

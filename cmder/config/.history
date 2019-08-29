@@ -1,0 +1,28 @@
+e:
+cd www
+node- v
+node -v
+npm i -g create-react-app
+dri
+cd clase1
+cd Presencial\
+create-react-app mi-primer-proyecto
+cd mi-primer-proyecto\
+npm i axios
+npm i redux react-redux redux-thunk
+git add.
+git add .
+git commit -m "dale boludo"
+git push origin master
+cd clase2
+cd Clase2
+cd presencial\
+cd clase2\
+.code
+. code
+cd ..
+cd prese
+dir
+cd mi-segundo-proyecto\
+npm i redux-saga
+npm start
